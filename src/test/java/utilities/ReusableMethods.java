@@ -66,7 +66,6 @@ public class ReusableMethods {
             scrollAndClickOnIOS(text);
         }
 
-
     }
 
     public static void scrollAndClickOnIOS(String text){

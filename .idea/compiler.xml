@@ -10,8 +10,5 @@
         <module name="e2e-mobile" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="e2e-mobile" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
