@@ -37,6 +37,7 @@
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
+        <!-- 8.3.0 | 8.2.0 | 7.6.0 bu versionlar da reports için denenebilir -->
         <dependency>
             <groupId>io.appium</groupId>
             <artifactId>java-client</artifactId>
@@ -63,6 +64,7 @@
             <artifactId>testng</artifactId>
             <version>7.6.1</version>
         </dependency>
+
         <dependency>
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-cucumber3-jvm</artifactId>
